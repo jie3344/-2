@@ -45,8 +45,6 @@
 {"key":"csp_Hsck","name":"&黄金仓库(爬虫)","type":3,"api":"csp_Hsck","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.buscdn.fun/"},
 {"key":"csp_xpath_hsck","name":"$黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hsck.json"},
 {"key":"csp_xpath_modou","name":"$麻豆(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/modou.json"},
-{"key":"哥妹","name":"$哥妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[]},
-{"key":"兵工厂","name":"$兵工厂","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","playUrl":"","categories":[]},
 {"key":"csp_xpath_banana","name":"$新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/xxbanana.json"},
 {"key":"csp_XML_影库","name":"$影库","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","playUrl":"https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"丝袜","name":"$丝袜","type":0,"api":"https://siwazyw.cc/api.php/provide/vod/at/xml/","playUrl":"https://help.siwazywcdn2.com:5278/m3u8.php?url=","categories":[]},
