@@ -176,6 +176,8 @@
 {"key":"csp_biubiu_双十电影","name":"双十电影(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/双十电影.json"},
 {"key":"csp_biubiu_139影视","name":"139影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/139影视.json"},
 {"key":"csp_biubiu_友播TV","name":"友播TV(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/友播TV.json"},
+{"key":"csp_biubiu_Netfla","name":"$Netfla","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/Netflav.json"},
+{"key":"csp_biubiu_A01","name":"$A01(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/AV01.json"},
 {"key":"csp_biubiu_搜狗影院","name":"搜狗影院(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/搜狗影院.json"},
 {"key":"csp_biubiu_酷奇MV","name":"酷奇MV(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/酷奇MV.json"}
 ],
