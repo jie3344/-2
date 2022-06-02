@@ -1,4 +1,4 @@
-{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220506.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
+{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220505.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
 "sites":[
 //CSP/SP
 {"key":"csp_77","name":"🍎七七(csp)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -18,8 +18,6 @@
 {"key":"csp_DY1990","name":"🍎90(csp)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"🍎小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Xiaoh.json"},
 {"key":"csp_SP360","name":"🐞360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/360.json"},
-{"key":"csp_SP2345","name":"🐞2345影视(SP)","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/2345.json"},
-{"key":"csp_SPSogou","name":"🐞搜狗影视(SP)","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/sogou.json"},
 {"key":"csp_IQIYI","name":"🐞爱奇艺(csp)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🐞芒果(csp)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"腾讯","name":"腾讯(API)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
