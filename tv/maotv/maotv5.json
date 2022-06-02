@@ -120,8 +120,7 @@
 
 //API
 {"key":"卧龙资源","name":"卧龙资源(API)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zhuijuba","name":"zhuijuba","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
-{"key":"FuckApp","name":"FuckApp","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/from/fuckapp","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
+{"key":"zhuijuba","name":"zhuijuba(API)","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"csp_xml_yinworld","name":"影世界(API)","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/?ac=list","playUrl":"https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url=","categories":["电影","连续剧","综艺","动漫"]},
 {"key":"csp_xml_taopian","name":"淘片(API)","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"csp_XML_资源采集","name":"爱优腾芒(API)","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","伦理片","犯罪片","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","犯罪片","冒险片","悬疑片","奇幻片","纪录片","动画片"]},
