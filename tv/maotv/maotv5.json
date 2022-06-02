@@ -1,4 +1,4 @@
-{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220507.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
+{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220508.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
 "sites":[
 //CSP/SP
 {"key":"csp_77","name":"七七(csp)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
