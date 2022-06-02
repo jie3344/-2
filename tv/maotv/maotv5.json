@@ -2,10 +2,11 @@
 "sites":[
 //CSP/SP
 {"key":"csp_77","name":"七七(csp)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"厂长资源(csp)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(csp)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"buka_spiderb","name":"不卡APP(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/js/buka.js"},
-//{"key":"csp_Auete","name":"Auete(csp)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Auete","name":"Auete(csp)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Auete.json"},
 {"key":"csp_DiDuan","name":"低端影视(csp)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Lgyy","name":"蓝光影院(csp)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Zxzj","name":"在线之家(csp)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
