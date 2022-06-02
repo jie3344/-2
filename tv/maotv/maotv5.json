@@ -62,7 +62,7 @@
 {"key":"csp_xpath_348z","name":"348蓝光(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/xpath/348z.json"},
 {"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPHdmoli)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hdmoli.json"},
 {"key":"csp_xpath_dandanzan10","name":"蛋蛋影视(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/dandanzan10.json"},
-{"key":"csp_xpath_hoho","name":"吼吼(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hoho.json"},
+//{"key":"csp_xpath_hoho","name":"吼吼(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hoho.json"},
 
 //XBbiu
 {"key":"csp_biubiu_看一看","name":"看一看(软解Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/看一看影视.json"},
