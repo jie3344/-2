@@ -1,4 +1,4 @@
-{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220505.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
+{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220507.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
 "sites":[
 //CSP/SP
 {"key":"csp_77","name":"七七(csp)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -8,6 +8,7 @@
 {"key":"buka_spiderb","name":"不卡APP(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/js/buka.js"},
 {"key":"csp_Auete","name":"Auete(csp)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Auete.json"},
 {"key":"csp_DiDuan","name":"低端影视(csp)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys","name":"酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Lgyy","name":"蓝光影院(csp)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Zxzj","name":"在线之家(csp)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_xpath_lgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/lgyy.json"},
