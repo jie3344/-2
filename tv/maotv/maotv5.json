@@ -14,7 +14,7 @@
 {"key":"csp_GitCafe","name":"🍎小纸条(csp)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_xpath_subaibai","name":"🍏素白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/subaibai.json"},
 {"key":"csp_Qicui","name":"🍎奇粹(csp)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Auete","name":"Auete(csp)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Auete.json"},
+//{"key":"csp_Auete","name":"Auete(csp)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Auete.json"},
 {"key":"csp_DY1990","name":"🍎90(csp)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🐞360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/360.json"},
 {"key":"csp_IQIYI","name":"🐞爱奇艺(csp)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
