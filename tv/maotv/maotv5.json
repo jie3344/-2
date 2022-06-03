@@ -1,4 +1,4 @@
-{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220506.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
+{"spider":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/jar/custom_spider20220505.jar;md5;2fc1b3bc608dd18a666b9badd041483b",
 "sites":[
 //CSP/SP
 {"key":"csp_77","name":"🍎七七(csp)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -17,8 +17,7 @@
 {"key":"csp_Qicui","name":"🍎奇粹(csp)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_DY1990","name":"🍎90(csp)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"🍎小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/sub/setup/Xiaoh.json"},
-//{"key":"csp_SP360","name":"🐞360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/360.json"},
-{"key":"csp_SP360","name":"🐞360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"🐞360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/360.json"},
 {"key":"csp_IQIYI","name":"🐞爱奇艺(csp)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🐞芒果(csp)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"腾讯","name":"腾讯(API)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
@@ -26,12 +25,6 @@
 {"key":"PPTV(官源)","name":"PPTV(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 {"key":"搜狐(官源)","name":"搜狐(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 
-//xml
-{"key":"优酷视频会员(官源)","name":"优酷视频会员(官源)","type":0,"api":"https://hk1.monika.love/Sturiss/liumt/main/douceshi.xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"爱奇艺会员(官源)","name":"爱奇艺会员(官源)","type":0,"api":"https://hk1.monika.love/Sturiss/liumt/main/Globeclass/aiyiqi.xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"腾讯视频(官源)","name":"腾讯视频（官源)","type":0,"api":"https://hk1.monika.love/Sturiss/liumt/main/Globeclass/tengxunshiping.xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"芒果TV会员(官源)","name":"芒果TV会员(官源)","type":0,"api":"https://hk1.monika.love/Sturiss/liumt/main/Globeclass/mangguo.xml","searchable":1,"quickSearch":1,"filterable":0},
- 
 //php
 {"key":"六度","name":"六度(php)","type":1,"api":"http://xiaoguozitv.cn/catys/xuangz.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"tv552","name":"爱迪(php)","type":1,"api":"http://pandown.pro/maoys/tv552.php","searchable":1,"quickSearch":1,"filterable":0},
