@@ -142,7 +142,6 @@
 {"name":"🇨🇳瓜瓜优选","type":2,"url":"Preference"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
 {"name":"2080kk","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=","ext":{"flag":["renrenmi","miaoparty","ltnb","iqiyi","qiyi","qq","腾讯","爱奇艺","奇艺","mgtv","芒果","sohu","搜狐","youku","优酷","xigua","西瓜","letv","乐视"]}},
 {"name":"戴拿解析","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
 {"name":"久久解析","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视"]}},
