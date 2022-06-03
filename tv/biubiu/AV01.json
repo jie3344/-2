@@ -1,5 +1,6 @@
-{"name": "AV01",
-"url": "https://av01.club",
+{
+"name": "AV01",
+"url": "https://www.av01.tv",
 "tihuan": "static.javhd.com",
 "User": "空",
 "fenlei": "最多观看$/videos?amp;sub_tag=115&o=bw&page=#最新上传$/videos?amp;sub_tag=115&o=mr&page=#最新上市$/videos?amp;sub_tag=115&o=rd&page=#最高评分$/videos?amp;sub_tag=115&o=tr&page=#最长时间$/videos?amp;sub_tag=115&o=lg&page=",
@@ -54,4 +55,5 @@
 "bfbiaotiqian": "\" ",
 "bfbiaotihou": ">",
 "bflianjieqian": "value=\"https://www.av01.tv",
-"bflianjiehou": "\""}
+"bflianjiehou": "\""
+}
