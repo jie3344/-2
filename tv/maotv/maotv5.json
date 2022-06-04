@@ -64,9 +64,7 @@
 {"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPHdmoli)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hdmoli.json"},
 {"key":"csp_xpath_hmtv","name":"花猫TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/huamao.json"},
 {"key": "csp_xpath_chen","name": "尘落(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/chenluo.json"}, 
-{"key":"csp_Hsck","name":"&黄金仓库(爬虫)","type":3,"api":"csp_Hsck","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.buscdn.fun/"},
-{"key":"csp_xpath_hsck","name":"$黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hsck.json"},
- 
+
 //AppYsV2
 {"key":"csp_appysv2_南府追剧","name":"南府追剧(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
 {"key":"csp_appysv2_影视大全","name":"影视大全(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.okmedcos.com/ruifenglb_api.php/v1.vod"},
@@ -124,9 +122,6 @@
 {"key":"csp_biubiu_手机看剧","name":"手机看剧(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/手机看剧.json"},
 {"key":"csp_biubiu_极品影视","name":"极品影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/极品影视.json"},
 {"key":"csp_biubiu_jable","name":"jable(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/jable.json"},
-{"key":"csp_biubiu_GAOAA","name":"GAOAA(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/GAOAA.json"},
-{"key":"csp_biubiu_Netfla","name":"Netfla(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/Netflav.json"},
-{"key":"csp_biubiu_A01","name":"A01(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/AV01.json"},
 {"key":"csp_biubiu_星空影视","name":"星空影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/星空影视.json"},
 {"key":"csp_biubiu_天空资源","name":"天空资源(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/天空资源.json"},
 
