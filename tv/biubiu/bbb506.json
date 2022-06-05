@@ -8,7 +8,7 @@
 "cateName":"",
 "cateId":"",
 "cateIdR":"",
-"cateManual": {"日本":"858","中文":"861","无":"14","有":"13","师生":"15","强乱":"16","人熟":"20","巨美":"23","日3仔":"22","欧美":"3","国产":"1","精品":"6","主播":"7","自拍":"8","稀有":"4","动漫":"5"},
+"cateManual": {"全部":""},
 
 "homeVodNode": "//div[@class='appel-main']/ul/li",
 "homeVodName": "/div/h5/a/@title",
@@ -27,9 +27,9 @@
 
 "dtUrl": "http://bbb506.com/{vid}",
 "dtNode": "//body",
-"dtName": "//h1[@class='appel-title']/text()",
+"dtName": "//h3[@class='appel-title']/text()",
 "dtImg": "//div[@class='thumbnail'][1]/img/@data-original",
-"dtFromNode": "//div[@class='appel-heading']/h2",
+"dtFromNode": "//div[@class='appel-heading']/h5",
 "dtFromName": "/text()",
 "dtUrlNode": "//div[@class='detail clearfix']",
 "dtUrlSubNode": "/div[@class='detail-poster']/a",
