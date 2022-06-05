@@ -4,9 +4,9 @@
 "dcVipFlag": "true",
 "pCfgJs":"https://png.5555nt.com/hg/55.js",
 "pCfgJsR":"[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-"cateNode":"//ul[contains(@class,'area')]/li[@class='active']/a[contains(@href,'vod/type/id/page/')]",,
-"cateName":"/text()",
-"cateId":"/@href",
+"cateNode":"",
+"cateName":"",
+"cateId":"",
 "cateIdR":"",
 "cateManual": {"中文":"861"},
 
