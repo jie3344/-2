@@ -5,8 +5,7 @@
 "cateName": "",
 "cateId": "",
 "cateIdR": "",
-"cateManual": {
-"骑兵有码":""},
+"cateManual": {},
 
 "homeVodNode": "//div[@class='pic']/ul/li/a",
 "homeVodName": "/@title",
