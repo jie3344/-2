@@ -2,8 +2,7 @@
 "ua": "",
 "homeUrl": "http://bbb506.com",
 "dcVipFlag": "true",
-"pCfgJs":"http://bbb506.com/static/js/playerconfig.js",
-  //https://png.5555nt.com/hg/55.js
+"pCfgJs":"https://png.5555nt.com/hg/55.js",
 "pCfgJsR":"[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
 "cateNode":"",
 "cateName":"",
