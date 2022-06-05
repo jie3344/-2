@@ -2,9 +2,10 @@
   "author":"20220605",
   "name": "bbb506",
   "url": "http://bbb506.com/", //填网站链接
+  //http://hgtv79.xyz/
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
-  "shouye": "1",
+  //"shouye": "1",
 
   "fenlei": "中文$/index.php/vod/type/id/861/page/#日有$/index.php/vod/type/id/858/page/#日无$/index.php/vod/type/id/859/page/#萝莉$index.php/vod/type/id/862/page/#制服$index.php/vod/type/id/860/page/#素人$index.php/vod/type/id/863/page/#欧美$index.php/vod/type/id/865/page/#传媒$index.php/vod/type/id/849/page/#国产$index.php/vod/type/id/850/page/#精彩时刻$index.php/vod/type/id/851/page/#嫩妹$/index.php/vod/type/id/852/page/#网拍$/index.php/vod/type/id/853/page/#网红$/index.php/vod/type/id/854/page/#91$/index.php/vod/type/id/855/page/#伦理$index.php/vod/type/id/864/page/#动漫$/index.php/vod/type/id/856/page/", //网站列表的分类
   "houzhui":".html", //网站翻页链接的后缀
