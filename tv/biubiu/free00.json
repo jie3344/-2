@@ -1,10 +1,15 @@
 {
 "ua": "",
 "homeUrl": "https://www.92look01.com",
-"cateNode": "",
-"cateName": "",
-"cateId": "",
-"cateIdR": "",
+"dcVipFlag": "true",
+"pCfgJs": "https://www.92look01.com/static/js/playerconfig.js",
+"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+"dcShow2Vip": {},
+"dcPlayUrl": "true"
+"cateNode": "//ul[contains(@class, 'nav-menu-items')]//li[@class='grid-item']/a[contains(@href, 'vodtype')]",
+"cateName": "/@title",
+"cateId": "/@href",
+"cateIdR": "/vodtype/(\\d+).html",
 "cateManual": {"日本":"2","中文":"21","无":"14","有":"13","师生":"15","强乱":"16","人熟":"20","巨美":"23","日3仔":"22","欧美":"3","国产":"1","精品":"6","主播":"7","自拍":"8","稀有":"4","动漫":"5"},
 
 "homeVodNode": "//div[@class='pic']/ul/li/a",
