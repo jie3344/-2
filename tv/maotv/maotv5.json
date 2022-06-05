@@ -122,6 +122,7 @@
 {"key":"csp_biubiu_手机看剧","name":"手机看剧(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/手机看剧.json"},
 {"key":"csp_biubiu_极品影视","name":"极品影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/极品影视.json"},
 {"key":"csp_biubiu_jable","name":"jable(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/jable.json"},
+{"key":"csp_biubiu_bbb506","name":"bbb506(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/bbb506.json"},
 {"key":"csp_biubiu_星空影视","name":"星空影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/星空影视.json"},
 {"key":"csp_biubiu_天空资源","name":"天空资源(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/天空资源.json"},
 {"key":"csp_biubiu_喜鹊视频","name":"喜鹊视频(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/喜鹊视频.json"},
