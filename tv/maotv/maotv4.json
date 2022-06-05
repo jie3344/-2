@@ -42,7 +42,6 @@
 {"key":"csp_Hsck","name":"&黄金仓库(爬虫)","type":3,"api":"csp_Hsck","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.buscdn.fun/"},
 {"key":"csp_xpath_hsck","name":"$黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hsck.json"},
 {"key":"csp_xpath_modou","name":"$麻豆(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/modou.json"},
-{"key":"csp_xpath_ct","name":"冲TMTV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://yamcode.com/raw/untitled-61031"},
 {"key":"csp_xpath_free00","name":"$菠萝蜜(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/free00.json"},
 {"key":"csp_xpath_bbb506","name":"$花姬阁(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/toto320/myfreed/master/tv/biubiu/bbb506.json"},
 {"key":"csp_xpath_banana","name":"$新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/xxbanana.json"},
