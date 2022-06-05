@@ -5,7 +5,7 @@
 "cateName": "",
 "cateId": "",
 "cateIdR": "",
-"cateManual": {"骑兵":""},
+"cateManual": {"中文":"6","无":"1","有":"4","国产":"2","欧美":"3","日韩":"9","制服":"7","人妻":"8","自拍":"10","3S":"11","颜色":"12","写真":"13","动漫":"5"},
 
 "homeVodNode": "//div[@class='pic']/ul/li/a",
 "homeVodName": "/@title",
