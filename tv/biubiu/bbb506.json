@@ -9,7 +9,7 @@
 "全部":""
 	},
 
-homeVodNode": "//div[@class='appel-main']/ul/li",
+"homeVodNode": "//div[@class='appel-main']/ul/li",
 "homeVodName": "/div/h5/a/@title",
 "homeVodId": "/a[@class='thumbnail']/@href",
 "homeVodIdR": "",
