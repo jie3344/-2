@@ -10,11 +10,11 @@
 "cateIdR":"",
 "cateManual": {"中文":"861"},
 
-"homeVodNode": "//div[@class='appel-main']/ul/li",
+"homeVodNode": "//div[@class='humbnail']/ul/li",
 "homeVodName": "/div/h5/a/@title",
 "homeVodId": "/a[@class='thumbnail']/@href",
 "homeVodIdR": "",
-"homeVodImg": "/a[@class='thumbnail']/img/@src",
+"homeVodImg": "/a[@class='data-original']/img/@src",
 "homeVodImgR": "",
   
 "cateUrl": "http://bbb506.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
