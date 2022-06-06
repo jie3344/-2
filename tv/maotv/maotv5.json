@@ -89,6 +89,7 @@
 {"key":"csp_AppYsV2_影世界","name":"影世界(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
 {"key": "csp_AppYsv2_秒播","name": "秒播(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
 {"key": "csp_appysv2_9e国语","name": "9E国语(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},   
+{"key": "csp_appysv2_69美剧","name": "69美剧(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/api.php/v1.vod"},   
 {"key": "csp_appysv2_暖光影视","name": "暖光影视(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
 
 //XBbiu
@@ -155,7 +156,14 @@
 {"name":"🇨🇳瓜瓜优选","type":2,"url":"Preference"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-{"name": "蓝光视讯","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
+{"name":"蓝光视讯","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
+{"name":"1080kan1","type":1,"url":"http://www.1080kan.cc/jiexi/rr.php?url="},
+{"name":"1080kan2","type":1,"url":"http://www.1080kan.cc/jiexi/fq.php?url="},
+{"name":"云海","type":1,"url":"http://114.132.251.111:999/188175/?url="},
+{"name":"一个解析","type":1,"url":"http://1.117.152.239:39000/?url="},
+{"name":"yjhan1","type":1,"url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
+{"name":"yjhan2","type":1,"url":"http://jx.yjhan.com:8090/home/api?type=app&uid=71734&key=bdegrtwzBELOSWY569&url="},
+{"name":"nicefamily","type":1,"url":"https://vip.nicefamily.club/api/?key=W3VmSonE0vcytnMnYv&url="},
 {"name":"2080kk","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=","ext":{"flag":["renrenmi","miaoparty","ltnb","iqiyi","qiyi","qq","腾讯","爱奇艺","奇艺","mgtv","芒果","sohu","搜狐","youku","优酷","xigua","西瓜","letv","乐视"]}},
 {"name":"戴拿解析","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
 {"name":"久久解析","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视"]}},
