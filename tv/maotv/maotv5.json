@@ -132,8 +132,8 @@
 
 //API
 {"key":"卧龙资源","name":"卧龙资源(API)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zhuijuba","name":"zhuijuba(API)","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
-{"key": "天堂资源","name": "天堂资源(API)","type": 1,"api": "http://vipmv.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
+{"key": "天堂资源","name": "天堂资源(API)","type":1,"api": "http://vipmv.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_xml_taopian","name":"淘片(API)","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"csp_XML_资源采集","name":"爱优腾芒(API)","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","伦理片","犯罪片","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","犯罪片","冒险片","悬疑片","奇幻片","纪录片","动画片"]},
 {"key":"csp_xpath_hjck","name":"黄金仓库测试(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/xpath/hjck.json"},
