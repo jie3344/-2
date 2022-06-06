@@ -64,7 +64,8 @@
 {"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPHdmoli)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/hdmoli.json"},
 {"key":"csp_xpath_hmtv","name":"花猫TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/huamao.json"},
 {"key": "csp_xpath_chen","name": "尘落(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/chenluo.json"}, 
-{"key": "csp_xpath_bidi","name": "哔嘀影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/bidi.json"}, 
+{"key": "csp_xpath_bidi","name": "哔嘀影视1(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/bidi.json"}, 
+{"key": "csp_xpath_dili","name": "哔嘀影视2(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/maotv/Ext/dili.json"}, 
 
 //AppYsV2
 {"key":"csp_appysv2_南府追剧","name":"南府追剧(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
@@ -86,9 +87,9 @@
 {"key": "csp_AppYsV2_看365","name":"看365(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
 {"key": "csp_AppYsV2_凌晨影视","name":"凌晨影视(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
 {"key":"csp_AppYsV2_影世界","name":"影世界(高清M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
-{"key": "csp_AppYsv2_秒播","name": "秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
-{"key": "csp_appysv2_9e国语","name": "9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},   
-{"key": "csp_appysv2_暖光影视","name": "暖光影视(优)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
+{"key": "csp_AppYsv2_秒播","name": "秒播(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
+{"key": "csp_appysv2_9e国语","name": "9E国语(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},   
+{"key": "csp_appysv2_暖光影视","name": "暖光影视(高清M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
 
 //XBbiu
 {"key":"csp_biubiu_看一看","name":"看一看(软解Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toto320.coding.net/p/toto320/d/freed/git/raw/master/tv/biubiu/biubiu/看一看影视.json"},
@@ -136,7 +137,7 @@
 
 //API
 {"key":"卧龙资源","name":"卧龙资源(API)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
+{"key":"量子资源","name":"量子资源(API)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key": "天堂资源","name": "天堂资源(API)","type":1,"api": "http://vipmv.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_xml_taopian","name":"淘片(API)","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"csp_XML_资源采集","name":"爱优腾芒(API)","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","伦理片","犯罪片","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","犯罪片","冒险片","悬疑片","奇幻片","纪录片","动画片"]},
@@ -175,7 +176,7 @@
 {"name":"CJT影院","type":1,"url":"https://svip.rongxingvr.top/api/?key=B26J6jO5MOnjUv3GqW&url=","ext":{"flag":["renrenmi","rx","qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"300看世界","type":1,"url":"https://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=","ext":{"flag":["ltnb"]}},
 {"name":"五一解析","type":1,"url":"https://json.5lp.net/json.php?url=","ext":{"flag":["qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","youku","优酷","sohu","pptv","PPTV","bilibili","哔哩哔哩","哔哩","renrenmi","rx","rongxing"]}},
-{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["qq","腾讯","mgtv","芒果","xigua","西瓜","letv","乐视"]}},
+//{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["qq","腾讯","mgtv","芒果","xigua","西瓜","letv","乐视"]}},
 {"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["iqiyi","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","xigua","西瓜","letv","乐视"]}},
 {"name":"欢雨","type":1,"url":"http://www.youhuifuligou.com/json/?id=7&url=","ext":{"flag":["iqiyi","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","xigua","西瓜","letv","乐视"]}},
 {"name":"线路Ysgc","type":1,"url":"https://jiexi.ysgc.xyz/duoduo/?url=","ext":{"flag":["duoduozy"],"header":{"User-Agent":"Mozilla/5.0(Linux;Android7.1.1;ONEPLUSA5000Build/NMF26X;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/86.0.4240.185MobileSafari/537.36","Origin":"https://jiexi.ysgc.xyz","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Accept-Encoding":"gzip,deflate","Accept-Language":"en-US,en;q=0.9","Content-Type":"application/x-www-form-urlencoded;charset=UTF-8","Accept":"application/json,text/javascript,*/*;q=0.01"}}},
